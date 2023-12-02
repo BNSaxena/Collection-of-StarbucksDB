@@ -1,0 +1,26 @@
+[
+{
+Pid:1,
+Pname:"Java Chip Frappuccino",
+Price:350,
+Count:1
+},
+{
+Pid:2,
+Pname:"Cold coffee",
+Price:850,
+Count:2
+},
+{
+Pid:3,
+Pname:"Cappuccino",
+Price:450,
+Count:1
+},
+{
+Pid:4,
+Pname:"Double Chocolate Chip Cookie",
+Price:700,
+Count:2
+}
+]

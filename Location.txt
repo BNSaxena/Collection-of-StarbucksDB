@@ -1,0 +1,21 @@
+[
+{
+"Location_id":1,
+"Location_Name":"Palava, Dombiwli",
+"Sate_id":"Maharastra",
+"Country_Name":"India"
+},
+{
+"Location_id":2,
+"Location_Name":"Vasi, New Mumbai",
+"State_id":"Maharastra",
+"Country_Name":"India"
+},
+{
+"Location_id":3,
+"Location_Name":"Andheri,Mumbai",
+"State_id":"Maharastra",
+"Country_Name":"India"
+}
+]
+
