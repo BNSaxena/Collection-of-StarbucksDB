@@ -8,7 +8,8 @@
 "CoffeeContent":"We blend mocha sauce and Frappuccino® chips with Frappuccino® roast coffee and milk and ice, 
 		 then top with whipped cream and mocha drizzle to bring you endless java joy.",
 "Coffee_Amt":"₹ 367.50",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":1
 },
 {
 "Coffee_id":2,
@@ -19,7 +20,8 @@
 "Coffeetype":"BREWED COFFEE",
 "CoffeeContent":"Rich in flavour, full-bodied espresso with hot water in true European style.",
 "Coffee_Amt":"₹ 262.50",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":1
 },
 {
 "Coffee_id":3,
@@ -30,7 +32,8 @@
 "Coffeetype":"",
 "CoffeeContent":"Our signature rich in flavour espresso blended with delicate vanilla flavour and milk to create a perfect cold coffee delight.",
 "Coffee_Amt":"₹ 362.25",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":2
 },
 {
 "Coffee_id":4,
@@ -41,7 +44,8 @@
 "Coffeetype":"Wheat Milk SOY ",
 "CoffeeContent":"Rich mocha-flavored sauce meets up with chocolaty chips, milk and ice. Top it off with sweetened whipped cream and mocha drizzle for a real party in your mouth. ",
 "Coffee_Amt":"₹ 399.00",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":2
 },
 {
 "Coffee_id":5,
@@ -52,7 +56,8 @@
 "Coffeetype":"MILK ",
 "CoffeeContent":"Dark, Rich in flavour espresso lies in wait under a smoothed and stretched layer of thick foam. It's truly the height of our baristas' craft. ",
 "Coffee_Amt":"₹ 283.50",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":3
 },
 {
 "Coffee_id":6,
@@ -63,7 +68,8 @@
 "Coffeetype":"Wheat Milk SOY",
 "CoffeeContent":"A soft & chewy chocolate cookie topped with chocolate chips for the perfect textured bite. Allergen - Contains Wheat, Milk, Soy. Serving size 80 g, 385 kcal",
 "Coffee_Amt":"₹ 299.25",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":3
 },
 {
 "Coffee_id":7,
@@ -74,7 +80,8 @@
 "Coffeetype":"Wheat Milk SOY",
 "CoffeeContent":"Indulge your taste buds with our Caramel Hot Chocolate Delight. Made from a delightful combination of Velvety Caramel and our Signature Hot Chocolate mix topped with Vanilla Whipped Cream. The ultimate coffee free comfort drink.",
 "Coffee_Amt":"₹ 414.75",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":2
 },
 {
 "Coffee_id":8,
@@ -85,7 +92,8 @@
 "Coffeetype":"Milk Wheat Nut",
 "CoffeeContent":"A perfect blend of Milk, Espresso and Cashew Nut Sauce finished with Whipped Cream and Pistachio Chunks",
 "Coffee_Amt":"₹ 414.75",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":1
 },
 {
 "Coffee_id":9,
@@ -96,6 +104,7 @@
 "Coffeetype":"Milk Wheat Nut",
 "CoffeeContent":"A perfect blend of Milk, Espresso and Cashew Nut Sauce finished with Whipped Cream and Pistachio Chunks",
 "Coffee_Amt":"₹ 414.75",
-"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png"
+"veg_nonveglogo":"https://i.ibb.co/Z11yNbv/veg-1.png",
+"Location_id":3
 }
 ]
